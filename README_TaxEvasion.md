@@ -1,4 +1,4 @@
-# 🔍 Tax Evasion Risk Assessment — From Expected Utility to Evasion Risk: A Machine Learning Approach
+#  Tax Evasion Risk Assessment — From Expected Utility to Evasion Risk: A Machine Learning Approach
 
 A machine learning project built on the Allingham & Sandmo (1972) theoretical framework to estimate individual tax evasion propensity using Italian household data (SHIW — Bank of Italy).
 
